@@ -1,0 +1,28 @@
+- Na tela de preparo ter a opção de selecionar mais de um item;
+- Na primeira etapa irá anotar em papel e mandar p/ cozinha o papel;
+- Separar débito, crédito e dinheiro;
+- Os itens são trabalhados pelo código. Adicionar na tabela de lançamento de pedido a 
+possibilidade de inserir por código. Adicionar na tabela de preparação mostrar o código.
+- Mudar a quantidade de itens p/ double;
+- Construir uma tela de baixa manual;
+- Adicionar cadastro de cliente devido ao delivery c/ cadastro de endereço e p/ 
+pegar o email;
+
+Relatórios
+	- Fechamento de caixa;
+		Informações: 
+			Total em dinheiro;
+			Total em cartão de crédito;
+			Total em débito;
+			Total de "pedidos";
+			
+	- Quantidades de estoque;
+	- Consulta de eventos por usuário;
+
+Hugo
+	- Planilha dos itens de cardápio e ingredientes
+	- Planilha com nome das pessoas que trabalham no LaBoca
+	- Planilha com  os fornecedores
+	
+
+
